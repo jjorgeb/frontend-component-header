@@ -8,7 +8,7 @@ const Logo = ({
   ...attributes
 }) => (
   <a href={href} className="logo" {...attributes}>
-    <img className="d-block" src={'https://edx-cdn.org/v3/default/logo.svg'} alt={alt} />
+    <img className="d-block" src={src} alt={alt} />
   </a>
 );
 
