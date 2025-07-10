@@ -14,7 +14,7 @@ var Logo = function Logo(_ref) {
     className: "logo"
   }, attributes), /*#__PURE__*/React.createElement("img", {
     className: "d-block",
-    src: src,
+    src: 'https://edx-cdn.org/v3/default/logo.svg',
     alt: alt
   }));
 };
